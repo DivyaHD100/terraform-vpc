@@ -1,3 +1,3 @@
-bucket = "b53-tfstate-bucket"
+bucket = "t53-tfstate-bucket"
 key    = "vpc/dev/terraform.tfstate"
 region = "us-east-1"
